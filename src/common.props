@@ -15,7 +15,7 @@ Updated to latest [Akka.NET version (1.4.11)](https://github.com/akkadotnet/akka
   </PropertyGroup>
   <PropertyGroup>
     <XunitVersion>2.4.1</XunitVersion>
-    <TestSdkVersion>16.9.4</TestSdkVersion>
+    <TestSdkVersion>16.10.0</TestSdkVersion>
     <NBenchVersion>1.2.2</NBenchVersion>
     <NetStandardLibVersion>netstandard2.0</NetStandardLibVersion>
     <NetCoreTestVersion>netcoreapp3.1</NetCoreTestVersion>
